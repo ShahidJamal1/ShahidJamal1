@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Md Shahid Jamal
-**A passionate Web Developer  || 👨‍💻 Future Software Engineer ||  Java Programmer||Ready to Dive Deep into Cutting-edge Technologies 🌟 || Student**
+**A Java FullStack Developer  || 👨‍💻 Future Software Engineer || Backend Developer||Ready to Dive Deep into Cutting-edge Technologies 🌟 || Student**
 
 Email Me 👉 ✉️ **shahidjamal5701@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Manuu Connect as a Student Coordinator & Chapter Lead Hackwithindia
-- 🌱 **I’m currently learning:** MERN Stack Development
-- 🤔 **I’m looking for Internship Role:** Web Developer,Front-End Developer
+- 🔭 **I’m currently working on:** Chapter Lead Hackwithindia
+- 🌱 **I’m currently learning:** Java Full Stack Development
+- 🤔 **I’m looking for Internship Role:** Web Developer,Front-End Developer,Java FullStack Developer,Backend Developer
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** shahidjamal5701@gmail.com
 - 😄 **Pronouns:** Shahid Jamal
