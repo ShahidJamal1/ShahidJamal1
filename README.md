@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Md Shahid Jamal
-**A Java FullStack Developer  || 👨‍💻 Future Software Engineer || Backend Developer||Ready to Dive Deep into Cutting-edge Technologies 🌟 || Student**
+**Java FullStack Developer  || 👨‍💻 Future Software Engineer || Backend Developer||Ready to Dive Deep into Cutting-edge Technologies 🌟 || Student**
 
 Email Me 👉 ✉️ **shahidjamal5701@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
